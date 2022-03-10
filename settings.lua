@@ -21,7 +21,7 @@ local tbl =
 	{
 		type = "number",
 		label = "fake number setting name 2",
-		tooltip = "fake number hover tooltip 2",
+		tooltip = "fake number hover tooltip 2 ",
 		num = 100,
 	},
 }
